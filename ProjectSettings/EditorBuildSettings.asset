@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/OpenPage.unity
+    guid: 21046cc70b10dbe448c6bde096df3c4a
+  - enabled: 1
+    path: Assets/Scenes/LegoScene.unity
+    guid: 54cdbadff0c7c4e4c8f4e5a9787cc9a2
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c69dd5814a56f5a40a23ccc1fad4b8c3,
+      type: 2}
