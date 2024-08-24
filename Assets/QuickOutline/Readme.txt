@@ -1,7 +1,6 @@
 QuickOutline
 ============
 
-Developed by Chris Nolet (c) 2018
 
 
 Instructions
