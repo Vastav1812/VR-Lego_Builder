@@ -2,7 +2,7 @@
 
 On startup, the OpenPage scene will display which just acts like a loading screen. The main bulk of the project is in the LegoScene. After the loading screen, the game will load into sandbox mode. From there, the button with three dots will bring up the main menu where kits can be accessed and placed in the world, multiplayer can be activated, and player avatar can be customized.
 
-The controls are based off of the provided VR3D gamepad and are as follows:
+ The controls are based off of the provided VR3D gamepad and are as follows:
 
 joystick: XZ plane movement
 joystick + trigger: XY plane movement
