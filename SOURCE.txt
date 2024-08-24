@@ -1,0 +1,15 @@
+Sources:
+
+lego placement (snap to grid) inspired by and followed guide of:
+https://www.youtube.com/watch?v=0jzc_uNdH40&t=647s
+
+sphynx model inspired by:
+https://www.youtube.com/watch?v=mT7GyolPJuk
+
+lego 2D sprites modified from:
+https://www.figma.com/community/file/959734122681681526
+
+sound effects:
+https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
+
+lego 3D assets and all other 2D sprites made by us
