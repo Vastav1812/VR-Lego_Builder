@@ -1,18 +1,18 @@
 Team 10
 We R Lego
 
-Veenu Bishnoi
+Vastav Bishnoi
 -menu functionality
 -Lego manipulation
 
-Pragathi Ilango
+Pragathi
 -Lego placement
 -menu functionality
 
-Ben Monical
+Dhruv Goyal
 -Lego placement/manipulation
 -3D prefabs
 
-Julie Whitmore
+Reinna Gupta
 -2D assets
 -menu visuals/functionality
